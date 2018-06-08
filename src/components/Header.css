@@ -1,0 +1,13 @@
+.header {
+  margin: 10px;
+  display: inline-flex;
+  align-items: center;
+}
+.header-logo {
+  display: inline-block;
+  height: 30px;
+}
+
+.header-title {
+  font-weight: bold;
+}
